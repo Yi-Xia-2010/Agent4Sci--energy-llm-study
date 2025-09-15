@@ -1,0 +1,23 @@
+[22:33:05] 
+=== Filtering candidates for task: 10_csv_etl ===
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_0.py  [PASS] (as-is)
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_1.py  [PASS] (as-is)
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_10.py  [PASS] (as-is)
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_11.py  [PASS] (as-is)
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_12.py  [PASS] (as-is)
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_13.py  [PASS] (as-is)
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_14.py  [PASS] (as-is)
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_15.py  [PASS] (as-is)
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_16.py  [PASS] (as-is)
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_17.py  [PASS] (as-is)
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_18.py  [FAIL] - No function found.
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_19.py  [PASS] (as-is)
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_2.py  [PASS] (as-is)
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_3.py  [FAIL] - No function found.
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_4.py  [FAIL] - No function found.
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_5.py  [PASS] (as-is)
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_6.py  [PASS] (as-is)
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_7.py  [PASS] (as-is)
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_8.py  [PASS] (as-is)
+[22:33:06] generated_candidates-codellama:70b-instruct-v5/10_csv_etl/candidate_9.py  [PASS] (as-is)
+[22:33:06] Summary for 10_csv_etl: total=20, passed=17, processed=0, failed=3

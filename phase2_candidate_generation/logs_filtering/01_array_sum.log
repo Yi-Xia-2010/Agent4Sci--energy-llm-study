@@ -1,0 +1,21 @@
+[22:32:57] 
+=== Filtering candidates for task: 01_array_sum ===
+[22:32:57] generated_candidates-codellama:70b-instruct-v5/01_array_sum/candidate_0.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/01_array_sum/candidate_1.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/01_array_sum/candidate_10.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/01_array_sum/candidate_11.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/01_array_sum/candidate_12.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/01_array_sum/candidate_13.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/01_array_sum/candidate_14.py  [FAIL] - No function found.
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/01_array_sum/candidate_15.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/01_array_sum/candidate_16.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/01_array_sum/candidate_17.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/01_array_sum/candidate_2.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/01_array_sum/candidate_3.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/01_array_sum/candidate_4.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/01_array_sum/candidate_5.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/01_array_sum/candidate_6.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/01_array_sum/candidate_7.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/01_array_sum/candidate_8.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/01_array_sum/candidate_9.py  [PASS] (as-is)
+[22:32:58] Summary for 01_array_sum: total=18, passed=17, processed=0, failed=1

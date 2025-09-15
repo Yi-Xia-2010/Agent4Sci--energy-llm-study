@@ -1,0 +1,14 @@
+[22:33:00] 
+=== Filtering candidates for task: 04_top_k_selection ===
+[22:33:00] generated_candidates-codellama:70b-instruct-v5/04_top_k_selection/candidate_0.py  [PASS] (as-is)
+[22:33:00] generated_candidates-codellama:70b-instruct-v5/04_top_k_selection/candidate_1.py  [PASS] (as-is)
+[22:33:00] generated_candidates-codellama:70b-instruct-v5/04_top_k_selection/candidate_10.py  [PASS] (as-is)
+[22:33:00] generated_candidates-codellama:70b-instruct-v5/04_top_k_selection/candidate_2.py  [PASS] (as-is)
+[22:33:00] generated_candidates-codellama:70b-instruct-v5/04_top_k_selection/candidate_3.py  [PASS] (as-is)
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/04_top_k_selection/candidate_4.py  [PASS] (as-is)
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/04_top_k_selection/candidate_5.py  [PASS] (as-is)
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/04_top_k_selection/candidate_6.py  [PASS] (as-is)
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/04_top_k_selection/candidate_7.py  [PASS] (as-is)
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/04_top_k_selection/candidate_8.py  [PASS] (as-is)
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/04_top_k_selection/candidate_9.py  [PASS] (as-is)
+[22:33:01] Summary for 04_top_k_selection: total=11, passed=11, processed=0, failed=0

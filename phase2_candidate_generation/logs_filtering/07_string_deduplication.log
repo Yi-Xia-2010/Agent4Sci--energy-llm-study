@@ -1,0 +1,23 @@
+[22:33:03] 
+=== Filtering candidates for task: 07_string_deduplication ===
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_0.py  [PASS] (as-is)
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_1.py  [PASS] (as-is)
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_10.py  [PASS] (as-is)
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_11.py  [PASS] (as-is)
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_12.py  [PASS] (as-is)
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_13.py  [PASS] (as-is)
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_14.py  [PASS] (as-is)
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_15.py  [PASS] (as-is)
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_16.py  [PASS] (as-is)
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_17.py  [PASS] (as-is)
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_18.py  [PASS] (as-is)
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_19.py  [PASS] (as-is)
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_2.py  [PASS] (as-is)
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_3.py  [FAIL] - No function found.
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_4.py  [PASS] (as-is)
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_5.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_6.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_7.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_8.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/07_string_deduplication/candidate_9.py  [PASS] (as-is)
+[22:33:04] Summary for 07_string_deduplication: total=20, passed=19, processed=0, failed=1

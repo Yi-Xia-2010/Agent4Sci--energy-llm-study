@@ -1,0 +1,21 @@
+[22:33:05] 
+=== Filtering candidates for task: 09_bfs ===
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/09_bfs/candidate_0.py  [PASS] (as-is)
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/09_bfs/candidate_1.py  [PASS] (as-is)
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/09_bfs/candidate_10.py  [PASS] (as-is)
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/09_bfs/candidate_11.py  [PASS] (as-is)
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/09_bfs/candidate_12.py  [FAIL] - No function found.
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/09_bfs/candidate_13.py  [PASS] (as-is)
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/09_bfs/candidate_14.py  [PASS] (as-is)
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/09_bfs/candidate_15.py  [PASS] (as-is)
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/09_bfs/candidate_16.py  [PASS] (as-is)
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/09_bfs/candidate_17.py  [PASS] (as-is)
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/09_bfs/candidate_2.py  [PASS] (as-is)
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/09_bfs/candidate_3.py  [PASS] (as-is)
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/09_bfs/candidate_4.py  [PASS] (as-is)
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/09_bfs/candidate_5.py  [PASS] (as-is)
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/09_bfs/candidate_6.py  [PASS] (as-is)
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/09_bfs/candidate_7.py  [PASS] (as-is)
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/09_bfs/candidate_8.py  [PASS] (as-is)
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/09_bfs/candidate_9.py  [PASS] (as-is)
+[22:33:05] Summary for 09_bfs: total=18, passed=17, processed=0, failed=1

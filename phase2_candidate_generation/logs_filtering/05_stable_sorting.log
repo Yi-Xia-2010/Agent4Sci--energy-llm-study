@@ -1,0 +1,23 @@
+[22:33:01] 
+=== Filtering candidates for task: 05_stable_sorting ===
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_0.py  [PASS] (as-is)
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_1.py  [PASS] (as-is)
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_10.py  [PASS] (as-is)
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_11.py  [PASS] (as-is)
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_12.py  [PASS] (as-is)
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_13.py  [PASS] (as-is)
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_14.py  [PASS] (as-is)
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_15.py  [PASS] (as-is)
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_16.py  [PASS] (as-is)
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_17.py  [PASS] (as-is)
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_18.py  [PASS] (as-is)
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_19.py  [PASS] (as-is)
+[22:33:01] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_2.py  [PASS] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_3.py  [FAIL] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_4.py  [PASS] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_5.py  [PASS] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_6.py  [PASS] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_7.py  [PASS] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_8.py  [PASS] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/05_stable_sorting/candidate_9.py  [PASS] (as-is)
+[22:33:02] Summary for 05_stable_sorting: total=20, passed=19, processed=0, failed=1

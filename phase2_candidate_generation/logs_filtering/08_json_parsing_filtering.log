@@ -1,0 +1,20 @@
+[22:33:04] 
+=== Filtering candidates for task: 08_json_parsing_filtering ===
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/08_json_parsing_filtering/candidate_0.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/08_json_parsing_filtering/candidate_1.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/08_json_parsing_filtering/candidate_10.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/08_json_parsing_filtering/candidate_11.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/08_json_parsing_filtering/candidate_12.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/08_json_parsing_filtering/candidate_13.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/08_json_parsing_filtering/candidate_14.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/08_json_parsing_filtering/candidate_15.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/08_json_parsing_filtering/candidate_16.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/08_json_parsing_filtering/candidate_2.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/08_json_parsing_filtering/candidate_3.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/08_json_parsing_filtering/candidate_4.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/08_json_parsing_filtering/candidate_5.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/08_json_parsing_filtering/candidate_6.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/08_json_parsing_filtering/candidate_7.py  [PASS] (as-is)
+[22:33:04] generated_candidates-codellama:70b-instruct-v5/08_json_parsing_filtering/candidate_8.py  [PASS] (as-is)
+[22:33:05] generated_candidates-codellama:70b-instruct-v5/08_json_parsing_filtering/candidate_9.py  [PASS] (as-is)
+[22:33:05] Summary for 08_json_parsing_filtering: total=17, passed=17, processed=0, failed=0

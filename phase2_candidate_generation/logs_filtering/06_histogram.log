@@ -1,0 +1,20 @@
+[22:33:02] 
+=== Filtering candidates for task: 06_histogram ===
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/06_histogram/candidate_0.py  [PASS] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/06_histogram/candidate_1.py  [PASS] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/06_histogram/candidate_10.py  [PASS] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/06_histogram/candidate_11.py  [PASS] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/06_histogram/candidate_12.py  [PASS] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/06_histogram/candidate_13.py  [PASS] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/06_histogram/candidate_14.py  [PASS] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/06_histogram/candidate_15.py  [PASS] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/06_histogram/candidate_16.py  [PASS] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/06_histogram/candidate_2.py  [PASS] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/06_histogram/candidate_3.py  [PASS] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/06_histogram/candidate_4.py  [PASS] (as-is)
+[22:33:02] generated_candidates-codellama:70b-instruct-v5/06_histogram/candidate_5.py  [PASS] (as-is)
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/06_histogram/candidate_6.py  [PASS] (as-is)
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/06_histogram/candidate_7.py  [PASS] (as-is)
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/06_histogram/candidate_8.py  [PASS] (as-is)
+[22:33:03] generated_candidates-codellama:70b-instruct-v5/06_histogram/candidate_9.py  [PASS] (as-is)
+[22:33:03] Summary for 06_histogram: total=17, passed=17, processed=0, failed=0

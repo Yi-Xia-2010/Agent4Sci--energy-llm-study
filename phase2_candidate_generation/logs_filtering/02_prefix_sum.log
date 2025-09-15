@@ -1,0 +1,20 @@
+[22:32:58] 
+=== Filtering candidates for task: 02_prefix_sum ===
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/02_prefix_sum/candidate_0.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/02_prefix_sum/candidate_1.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/02_prefix_sum/candidate_10.py  [PASS] (as-is)
+[22:32:58] generated_candidates-codellama:70b-instruct-v5/02_prefix_sum/candidate_11.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/02_prefix_sum/candidate_12.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/02_prefix_sum/candidate_13.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/02_prefix_sum/candidate_14.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/02_prefix_sum/candidate_15.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/02_prefix_sum/candidate_16.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/02_prefix_sum/candidate_2.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/02_prefix_sum/candidate_3.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/02_prefix_sum/candidate_4.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/02_prefix_sum/candidate_5.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/02_prefix_sum/candidate_6.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/02_prefix_sum/candidate_7.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/02_prefix_sum/candidate_8.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/02_prefix_sum/candidate_9.py  [PASS] (as-is)
+[22:32:59] Summary for 02_prefix_sum: total=17, passed=17, processed=0, failed=0

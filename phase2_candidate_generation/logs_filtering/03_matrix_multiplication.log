@@ -1,0 +1,23 @@
+[22:32:59] 
+=== Filtering candidates for task: 03_matrix_multiplication ===
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_0.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_1.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_10.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_11.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_12.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_13.py  [PASS] (as-is)
+[22:32:59] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_14.py  [PASS] (as-is)
+[22:33:00] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_15.py  [PASS] (as-is)
+[22:33:00] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_16.py  [PASS] (as-is)
+[22:33:00] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_17.py  [PASS] (as-is)
+[22:33:00] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_18.py  [PASS] (as-is)
+[22:33:00] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_19.py  [PASS] (as-is)
+[22:33:00] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_2.py  [PASS] (as-is)
+[22:33:00] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_3.py  [PASS] (as-is)
+[22:33:00] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_4.py  [PASS] (as-is)
+[22:33:00] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_5.py  [PASS] (as-is)
+[22:33:00] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_6.py  [PASS] (as-is)
+[22:33:00] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_7.py  [PASS] (as-is)
+[22:33:00] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_8.py  [PASS] (as-is)
+[22:33:00] generated_candidates-codellama:70b-instruct-v5/03_matrix_multiplication/candidate_9.py  [PASS] (as-is)
+[22:33:00] Summary for 03_matrix_multiplication: total=20, passed=20, processed=0, failed=0
