@@ -29,3 +29,6 @@ https://chatgpt.com/share/68c70bc3-b2dc-800c-a979-bd118b2e60f5
 
 Update data and refine content in Results, Discussion, Conclusion sections and Abstract - Gemini 2.5 pro:
 https://g.co/gemini/share/50001760020a
+
+refine content in Results, Discussion - Gemini 2.5 pro：
+https://g.co/gemini/share/1cb518c355b3
