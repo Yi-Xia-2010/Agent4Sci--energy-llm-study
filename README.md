@@ -1,6 +1,6 @@
 # Energy-Guided Program Selection Experiments
 
-This repository contains the code, data, and scripts for the energy-guided program selection study. The goal of the study is to evaluate how large language models (LLMs) generate functionally correct Python programs and how energy consumption can guide the selection of the most efficient candidate.
+This repository contains the code, data, and scripts for the paper "Green by Design: Energy-Guided Reranking of LLM-Generated Programs," accepted at the Agents4Science 2025 conference. The goal of the study is to evaluate how large language models (LLMs) generate functionally correct Python programs and how energy consumption can guide the selection of the most efficient candidate.
 
 ## Usage Overview
 
