@@ -2,7 +2,7 @@
 
 This repository contains the code, data, and scripts for the paper "Green by Design: Energy-Guided Reranking of LLM-Generated Programs," accepted at the Agents4Science 2025 conference. The goal of the study is to evaluate how large language models (LLMs) generate functionally correct Python programs and how energy consumption can guide the selection of the most efficient candidate.
 
-Paper presentation video: https://drive.google.com/file/d/1_FeQ1q-iN0V3w70VZaPxu00cY3QMxLJk/view?usp=sharing
+Paper presentation video: https://drive.google.com/file/d/1g_HS5tmlRj0inXFb8jfVj9E59mK3dL-v/view?usp=sharing
 
 ## Usage Overview
 
