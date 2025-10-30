@@ -13,4 +13,4 @@ ollama
 
 matplotlib
 scipy
-seabron
+seaborn
